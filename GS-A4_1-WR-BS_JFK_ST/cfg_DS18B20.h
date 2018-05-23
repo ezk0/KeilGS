@@ -7,7 +7,7 @@
 #define _DS18B20_MAX_SENSORS 7
 #define	_DS18B20_GPIO GPIOG
 #define IDR_MASK_PIN_0 (0x01U << 0)
-#define	_DS18B20_PIN GPIOG->IDR = GPIOG->IDR &~IDR_MASK_PIN_0;
+#define	_DS18B20_PIN GPIOG->IDR = GPIOG->IDR &~IDR_MASK_PIN_0
 
 
 #define	_DS18B20_UPDATE_INTERVAL_MS 10000 //  (((	if==0  >> Ds18b20_ManualConvert()  )))    ((( if>0  >>>> Auto refresh )))
