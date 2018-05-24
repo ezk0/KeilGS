@@ -29,5 +29,6 @@ void timerinit(void);
 * @retval timerTicks
 */
 uint32_t getTimeStamp(void);
+void resetTimer(void);
 
 #endif

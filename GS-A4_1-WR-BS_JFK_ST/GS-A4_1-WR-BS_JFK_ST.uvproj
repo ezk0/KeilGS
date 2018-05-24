@@ -868,9 +868,9 @@
               <FilePath>.\DS18B20.c</FilePath>
             </File>
             <File>
-              <FileName>one_wire.c</FileName>
+              <FileName>onewire.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\one_wire.c</FilePath>
+              <FilePath>.\onewire.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -971,11 +971,6 @@
               <FilePath>.\TI_BRD_LIB\Library\timer.h</FilePath>
             </File>
             <File>
-              <FileName>stringsort.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\stringsort.h</FilePath>
-            </File>
-            <File>
               <FileName>DS18B20.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\DS18B20.h</FilePath>
@@ -991,9 +986,9 @@
               <FilePath>.\one_wire.h</FilePath>
             </File>
             <File>
-              <FileName>cfg_DS18B20.h</FileName>
+              <FileName>onewire.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\cfg_DS18B20.h</FilePath>
+              <FilePath>.\onewire.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -1890,9 +1885,9 @@
               <FilePath>.\DS18B20.c</FilePath>
             </File>
             <File>
-              <FileName>one_wire.c</FileName>
+              <FileName>onewire.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\one_wire.c</FilePath>
+              <FilePath>.\onewire.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -1925,11 +1920,6 @@
               <FilePath>.\TI_BRD_LIB\Library\timer.h</FilePath>
             </File>
             <File>
-              <FileName>stringsort.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\stringsort.h</FilePath>
-            </File>
-            <File>
               <FileName>DS18B20.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\DS18B20.h</FilePath>
@@ -1945,9 +1935,9 @@
               <FilePath>.\one_wire.h</FilePath>
             </File>
             <File>
-              <FileName>cfg_DS18B20.h</FileName>
+              <FileName>onewire.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\cfg_DS18B20.h</FilePath>
+              <FilePath>.\onewire.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -2747,9 +2737,9 @@
               <FilePath>.\DS18B20.c</FilePath>
             </File>
             <File>
-              <FileName>one_wire.c</FileName>
+              <FileName>onewire.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\one_wire.c</FilePath>
+              <FilePath>.\onewire.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -2850,11 +2840,6 @@
               <FilePath>.\TI_BRD_LIB\Library\timer.h</FilePath>
             </File>
             <File>
-              <FileName>stringsort.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\stringsort.h</FilePath>
-            </File>
-            <File>
               <FileName>DS18B20.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\DS18B20.h</FilePath>
@@ -2870,9 +2855,9 @@
               <FilePath>.\one_wire.h</FilePath>
             </File>
             <File>
-              <FileName>cfg_DS18B20.h</FileName>
+              <FileName>onewire.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\cfg_DS18B20.h</FilePath>
+              <FilePath>.\onewire.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -3701,9 +3686,9 @@
               <FilePath>.\DS18B20.c</FilePath>
             </File>
             <File>
-              <FileName>one_wire.c</FileName>
+              <FileName>onewire.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\one_wire.c</FilePath>
+              <FilePath>.\onewire.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -3736,11 +3721,6 @@
               <FilePath>.\TI_BRD_LIB\Library\timer.h</FilePath>
             </File>
             <File>
-              <FileName>stringsort.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\stringsort.h</FilePath>
-            </File>
-            <File>
               <FileName>DS18B20.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\DS18B20.h</FilePath>
@@ -3756,9 +3736,9 @@
               <FilePath>.\one_wire.h</FilePath>
             </File>
             <File>
-              <FileName>cfg_DS18B20.h</FileName>
+              <FileName>onewire.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\cfg_DS18B20.h</FilePath>
+              <FilePath>.\onewire.h</FilePath>
             </File>
           </Files>
         </Group>

@@ -29,4 +29,7 @@ uint32_t getTimeStamp(){
 	return (TIM2->CNT);
 }
 
+void resetTimer(){
+	TIM2->CNT=0;
+}
 
